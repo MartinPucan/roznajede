@@ -1,0 +1,53 @@
+body {
+  height: 100vh;
+  background: rgba(246, 164, 163, 1);
+  font-size: 2em;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: center;
+  text-align: center;
+  gap: 1rem;
+  padding-inline: 1rem;
+}
+
+.header {
+  background: #030637;
+  height: 10vh;
+}
+
+.main {
+  background: #720455;
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.aside {
+  background: #A94438;
+  width: 25vw;
+  margin: 1rem;
+}
+
+.article {
+  background: #D24545;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 1rem;
+  padding: 1rem;
+  width: 100%;
+}
+
+.box {
+  background: #503C3C;
+  width: 100%;
+  height: 30vh;
+}
+
+.footer {
+  background: #3C0753;
+  height: 10vh;
+}

@@ -14,7 +14,7 @@ yarn build
 
 to bundle your application
 
-1. Exercise - Responsive layout
+1. Responsive layout
    > use color palette, recommend https://colorhunt.co/
    
    > you can use display grid or flex - your choice and create a responsive layout for the entire page
@@ -23,4 +23,12 @@ to bundle your application
    
    > do not forget apply this styles in index.scss
     
-   > 
+   
+2. Scrollable sections
+   > create 4 options in header and add 4 sections
+
+   > link this options with sections by id
+
+   > make whole html smooth scrollable
+
+   > use unique color for each section
